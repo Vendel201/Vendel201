@@ -1,5 +1,6 @@
 <h1 align="center">Hewo, I'm Vendell#3621</h1>
 <h3 align="center">A bad Discord Bot dev</h3>
+<h4 align="center"><i>"C# is love, C# is life."</i></h4>
 
 - working on [Confession Bot](https://github.com/Vendel201/ConfessionBot)
 
