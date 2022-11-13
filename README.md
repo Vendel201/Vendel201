@@ -3,6 +3,7 @@
 <h4 align="center"><i>"C# is love, C# is life."</i></h4>
 
 - working on [Confession Bot](https://github.com/Vendel201/ConfessionBot)
+- and on [e621 Downloader](https://github.com/Vendel201/e621-Downloader)
 
 - check out [https://vendell.online](https://vendell.online)
 
